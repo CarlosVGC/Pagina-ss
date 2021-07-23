@@ -1,0 +1,12 @@
+body{
+    margin: 0em;
+}
+.cover{
+    height: 400px;
+    background-image:url("/html/imagenes/portadaindex.jpg");
+    color:white;
+    background-size: cover;
+    background-position: center;
+    background-color:rgba(0,0,0,0.3);
+    background-blend-mode: darken;
+}
