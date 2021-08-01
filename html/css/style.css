@@ -409,7 +409,6 @@ h1,h2,h3,h4,h5{
     
 }
 
-/*Aqui se tiene el problema de la viñeta*/
 .footer .footer-link a::before {
     position: relative;
     font-family: "Font Awesome 5 Free";
